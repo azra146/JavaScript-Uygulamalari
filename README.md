@@ -13,7 +13,7 @@
 
 <h3 align="left">Bildiğim Diller ve Araçlar:</h3>
 <h2> 
-C <br> C++ <br> JavaScript(JS) <br> Python <br>
+C <br> C++ <br> JavaScript(JS) <br> Python <br> HTML5 <br> Android <br> Photoshop <br> Arduino
 
 
 
