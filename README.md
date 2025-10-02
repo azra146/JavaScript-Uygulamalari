@@ -23,6 +23,6 @@ C <br> C++ <br> JavaScript(JS) <br> Python <br> HTML5 <br> Android <br> Photosho
 
 <h3 align="left">Benimle iletişime geç:
 <p align="left">
-<a href="https://instagram.com/azra.ucar_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azra.ucar_0" height="30" width="40" /> azra.ucar_0</a>
+<a href="https://instagram.com/azra.ucar_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azra.ucar_0" height="30" width="30" /> azra.ucar_0</a>
 </p></h3>
 
