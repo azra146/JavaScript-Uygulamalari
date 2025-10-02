@@ -4,7 +4,7 @@
 <p> Ben Azra Uçar. 18 yaşındayım. İstanbul Gelişim Üniversitesi Ön-Yüz Yazılım Geliştirme Bölümü'nde öğrenim görmekteyim. Gelecek hedefim web tasarım alanında ilerleyip ilerde güzel websiteleri yapmak.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azra146&label=Profile%20views&color=0e75b6&style=flat" alt="azra146" /> </p>
 
-- 📫 Bana nasıl ulaşılır **azra.ucar@ogr.gelisim.edu.tr**
+- 📫Mail: **azra.ucar@ogr.gelisim.edu.tr**
 
 <h3 align="left">Benimle iletişime geç:
 <p align="left">
