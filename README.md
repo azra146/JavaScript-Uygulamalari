@@ -18,5 +18,7 @@ C <br> C++ <br> JavaScript(JS) <br> Python <br> HTML5 <br> Android <br> Photosho
 <h3 align="left">Eğitim:</h3>
 <h2>
 YTÜ Maçka Mesleki ve Teknik Anadolu Lİsesi (Bilişim Teknolojileri/Yazılım Geliştirme bölümü)
+  <h3 align="left">Sertifikalarım:</h3>
+<h2>cPwC Türkiye Young Gems Program </h2>
   
 </h2>
