@@ -2,6 +2,13 @@
 2025-2026 Güz dönemi JavaScript Uygulamalari Ders Notlari
 <h1 align="center">Merhaba 👋</h1>
 <p> Ben Azra Uçar. 18 yaşındayım. İstanbul Gelişim Üniversitesi Ön-Yüz Yazılım Geliştirme Bölümü'nde öğrenim görmekteyim. Gelecek hedefim web tasarım alanında ilerleyip ilerde güzel websiteleri yapmak.</p>
+<h3 align="left">Eğitim:</h3>
+<h2>
+YTÜ Maçka Mesleki ve Teknik Anadolu Lİsesi (Bilişim Teknolojileri/Yazılım Geliştirme bölümü)
+  </h2>
+  <h3 align="left">Sertifikalarım:</h3>
+<h2>PwC Türkiye Young Gems Program </h2>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azra146&label=Profile%20views&color=0e75b6&style=flat" alt="azra146" /> </p>
 
 - 📫Mail: **azra.ucar@ogr.gelisim.edu.tr**
@@ -15,10 +22,4 @@
 <h2> 
 C <br> C++ <br> JavaScript(JS) <br> Python <br> HTML5 <br> Android <br> Photoshop <br> Arduino
 </h2>
-<h3 align="left">Eğitim:</h3>
-<h2>
-YTÜ Maçka Mesleki ve Teknik Anadolu Lİsesi (Bilişim Teknolojileri/Yazılım Geliştirme bölümü)
-  </h2>
-  <h3 align="left">Sertifikalarım:</h3>
-<h2>PwC Türkiye Young Gems Program </h2>
 
