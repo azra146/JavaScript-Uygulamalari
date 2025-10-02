@@ -16,7 +16,7 @@ C <br> C++ <br> JavaScript(JS) <br> Python <br> HTML5 <br> Android <br> Photosho
 </h2>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azra146&label=Profile%20views&color=0e75b6&style=flat" alt="azra146" /> </p>
+
 
 - 📫Mail: **azra.ucar@ogr.gelisim.edu.tr**
 
