@@ -3,13 +3,11 @@
 <h1 align="center">Merhaba 👋 , ben azra uçar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azra146&label=Profile%20views&color=0e75b6&style=flat" alt="azra146" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azra146" alt="azra146" /></a> </p>
+- 📫 Bana nasıl ulaşılır **azra.ucar@ogr.gelisim.edu.tr**
 
-- 📫 Bana nasıl ulaşılır **azra.ucar@ogr.gelisim.edu.tr / azrau39@gmail.com**
-
-<h3 align="left">Benimle bağlan:</h3>
-<p align="left"><
-a href="https://instagram.com/azra.ucar_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azra.ucar_0" height="30" width="40" /></a>
+<h3 align="left">Benimle iletişime geç:</h3>
+<p align="left">
+<a href="https://instagram.com/azra.ucar_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azra.ucar_0" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Diller ve Araçlar:</h3>
