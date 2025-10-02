@@ -9,6 +9,13 @@ YTÜ Maçka Mesleki ve Teknik Anadolu Lİsesi (Bilişim Teknolojileri/Yazılım 
   <h3 align="left">Sertifikalarım:</h3>
 <h2>PwC Türkiye Young Gems Program </h2>
 
+
+<h3 align="left">Bildiğim Diller ve Araçlar:</h3>
+<h2> 
+C <br> C++ <br> JavaScript(JS) <br> Python <br> HTML5 <br> Android <br> Photoshop <br> Arduino
+</h2>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azra146&label=Profile%20views&color=0e75b6&style=flat" alt="azra146" /> </p>
 
 - 📫Mail: **azra.ucar@ogr.gelisim.edu.tr**
@@ -17,9 +24,4 @@ YTÜ Maçka Mesleki ve Teknik Anadolu Lİsesi (Bilişim Teknolojileri/Yazılım 
 <p align="left">
 <a href="https://instagram.com/azra.ucar_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azra.ucar_0" height="30" width="40" /> azra.ucar_0</a>
 </p></h3>
-
-<h3 align="left">Bildiğim Diller ve Araçlar:</h3>
-<h2> 
-C <br> C++ <br> JavaScript(JS) <br> Python <br> HTML5 <br> Android <br> Photoshop <br> Arduino
-</h2>
 
