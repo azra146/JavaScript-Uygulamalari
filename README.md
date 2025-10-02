@@ -6,10 +6,10 @@
 
 - 📫 Bana nasıl ulaşılır **azra.ucar@ogr.gelisim.edu.tr**
 
-<h3 align="left">Benimle iletişime geç:</h3>
+<h3 align="left">Benimle iletişime geç:
 <p align="left">
 <a href="https://instagram.com/azra.ucar_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azra.ucar_0" height="30" width="40" /></a>
-</p>
+</p></h3>
 
 <h3 align="left">Bildiğim Diller ve Araçlar:</h3>
 <h2> 
