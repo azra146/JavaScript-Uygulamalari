@@ -19,7 +19,7 @@ C <br> C++ <br> JavaScript(JS) <br> Python <br> HTML5 <br> Android <br> Photosho
 
 
 
-- 📫Mail: **azra.ucar@ogr.gelisim.edu.tr**
+📫Mail: **azra.ucar@ogr.gelisim.edu.tr**
 
 <h3 align="left">Benimle iletişime geç:
 <p align="left">
