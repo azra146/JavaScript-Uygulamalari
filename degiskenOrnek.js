@@ -1,4 +1,4 @@
-console.log("EKRAN ÖZETİ");
+console.log("KAYIT ÖZETİ");
 var ad="Efe";
 console.log("ÖĞRENCİ: "+ ad);
 
@@ -13,3 +13,4 @@ console.log("PROGRAM: "+ program);
 
 let sifre="deneme";
 console.log("ŞİFRE: "+ sifre);
+
