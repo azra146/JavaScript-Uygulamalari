@@ -1,7 +1,7 @@
 # JavaScript-Uygulamaları
 2025-2026 Güz dönemi JavaScript Uygulamalari Ders Notlari
 <h1 align="center">Merhaba 👋</h1>
-<p> Ben Azra Uçar. 18 yaşındayım. İstanbul Gelişim Üniversitesi Ön-Yüz Yazılım Geliştirme Bölümü'nde öğrenim görmekteyim. Gelecek hedefim web tasarım alanında ilerleyip ilerde güzel websiteleri yapmak.</p>
+<p> Ben Azra Uçar.  Gelecek hedefim web tasarım alanında ilerleyip ilerde güzel websiteleri yapmak.</p>
 <h3 align="left">Eğitim:</h3>
 <h2>
 YTÜ Maçka Mesleki ve Teknik Anadolu Lİsesi (Bilişim Teknolojileri/Yazılım Geliştirme bölümü)
