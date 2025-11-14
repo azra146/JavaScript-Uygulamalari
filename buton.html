@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p id="sonuc">lütfen başlat düğmesine tıklayınız</p>
+    <button id="Buton">Başlat</button>
+</body>
+<script>
+
+//elementleri yakala
+let paragraf=document.querySelector("#sonuc");
+let buton=document.querySelector(".Buton");
+
+//olay dinleyicisi ekle
+buton.addEventListener(`click`, function()
+{
+//metin güncelleme 
+sonuc.textContent="işlem tamamlandı!";
+
+//yazı rengi değiştir
+sonuc.style.color="blue";
+
+//buton kaybetme
+buton.style.display="none";
+})
+</script>
+</html>
