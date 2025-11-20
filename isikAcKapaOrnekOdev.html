@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>Akıllı Işık Kontrolü</title>
+</head>
+<body>
+
+<h2>Akıllı Işık Kontrolü</h2>
+
+
+<p id="durum">Işık Kapalı</p>
+
+<button id="ac">Işığı Aç</button>
+<button id="kapat">Işığı Kapat</button>
+
+<script>
+let durum = document.querySelector("#durum");
+let ac = document.querySelector("#ac");
+let kapat = document.querySelector("#kapat");
+
+
+ac.addEventListener("click", function(){
+    durum.textContent = "Işık Açık";
+    durum.style.color = "red";
+    document.body.style.backgroundColor = "yellow";
+});
+
+
+kapat.addEventListener("click", function(){
+    durum.textContent = "Işık Kapalı";
+     durum.style.color = "white";
+    document.body.style.backgroundColor = "gray";
+});
+</script>
+
+</body>
+</html>
