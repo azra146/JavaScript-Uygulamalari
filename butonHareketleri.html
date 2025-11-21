@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>buton hareketleri</title>
+</head>
+<body>
+    <button onclick="tikla()">A</button>
+    <button onmouseover="uzerineGelme()">B</button>
+    <button onmouseout="uzerindenAyrilma()">C</button>
+</body>
+<script>
+   function tikla()
+   {
+    alert("Butona tıklandı..");
+    document.body.style.backgroundColor="yellow";
+   }
+   function uzerineGelme()
+   {
+    alert("Üzerine gelindi..");
+    document.body.style.backgroundColor="red";
+   }
+   function uzerindenAyrilma()
+   {
+    alert("Üzerinden ayrıldı..");
+    document.body.style.backgroundColor="blue";
+   }
+</script>
+</html>
