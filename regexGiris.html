@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>basit regex desenleri</title>
+</head>
+<body>
+    
+</body>
+</html>
+<script>
+    let pattern1=/merhaba/; 
+    document.writeln("Metinde 'merhaba' kelimesini arama:  ");
+    document.writeln(pattern1.test("Merhaba dünya")); //test true/false için//
+    document.writeln("<br>");
+
+    let pattern2=/merhaba/i; //i büyük küçük harf için//
+    document.writeln("Metinde büyük küçük harf duyarlılığını kaldırma:  ");
+    document.writeln(pattern2.test("Merhaba dünya")); //test true/false için//
+    document.writeln("<br>");
+
+    let pattern3=/el/gi; //g tüm metinde araması için i de büyük küçük harf için//
+    let metin="Elma el ele el ele";
+    document.writeln("<u>Elma el ele el ele</u> metinde bulunan <u>el</u> ifadesi:  ");
+    document.writeln(metin.match(pattern3));
+    document.writeln("<br>");
+   
+    let pattern4=/\d/; // rakam için d kullanılır//
+    document.writeln("metinde rakam arama:  ");
+    document.writeln(pattern4.test("Bugün 02 Aralık"));
+    document.writeln("<br>");
+
+    let pattern5=/\d/g;
+    let metin2="a1b2c3";
+    document.writeln("a1b2c3 metninde rakam bulma: ");
+    document.writeln(metin2.match(pattern5));
+    document.writeln("<br>");
+
+
+</script>

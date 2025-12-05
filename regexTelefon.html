@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+<script>
+    let pattern=/\d{3}-\d{3}-\d{4}/; // adet sayısı//
+    metin1="555-123-4567";
+    document.writeln("test 1 (555-123-4567):  ");
+    document.writeln(pattern.test(metin1));
+    document.writeln("<br>");
+
+    metin2="5551234567";
+    document.writeln("test 2 (5551234567):  ");
+    document.writeln(pattern.test(metin2));
+    document.writeln("<br>");
+
+    metin3="55-123-4567";
+    document.writeln("test 3 (55-123-4567):  ");
+    document.writeln(pattern.test(metin3));
+    document.writeln("<br>");
+
+
+
+
+</script>
