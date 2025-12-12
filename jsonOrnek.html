@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h3>JSON ile Kalıcı Kayıt</h3>
+    <p>Beğeni Sayısı: <spam id="begeni"></spam></p> 
+    <p>Ziyaret Sayısı: <spam id="ziyaret"></spam></p> 
+    <button id="begeniEkle">Beğeni Ekle</button>
+
+</body>
+</html>
+<script>
+    //tanımlama//
+    const begeniSayisi=document.getElementById('begeni');
+    const ziyaretSayisi=document.getElementById('ziyaret');
+    const ekleBtn=document.getElementById('begeniEkle');
+    const SAYACLAR_KEY='cokluSayacDegeri';
+
+    function sayaclariIsle(islemeTipi)
+    {
+        const sayacString=localStorage.getItem(SAYACLAR_KEY);
+        let sayacNesnesi;
+        if(sayacString)
+    {
+        sayacNesnesi=JSON.parse(sayacString);
+    }
+    else
+    {
+        sayacNesnesi={begeni:0,ziyaret:0};
+    }
+    if(islemeTipi=='ziyaret')
+    {
+        sayacNesnesi.ziyaret+=1;
+    }
+    else if(islemeTipi=='begeni')
+    {
+        sayacNesnesi.begeni+=1;
+    }
+    // JSON.stringify köprüsü
+    const guncelSayacString=JSON.stringify(sayacNesnesi);
+    localStorage.setItem(SAYACLAR_KEY,guncelSayacString);
+
+    //göster
+    begeniSayisi.textContent=sayacNesnesi.begeni;
+    ziyaretSayisi.textContent=sayacNesnesi.ziyaret;
+    }
+     //sayfa yüklendiğinde(ziyaret artar)
+     sayaclariIsle('ziyaret');
+
+     //butona tıklandığında beğeni artar
+     ekleBtn.addEventListener('click',()=>{
+        sayaclariIsle('begeni');
+     });
+
+
+</script>
